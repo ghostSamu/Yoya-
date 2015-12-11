@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application URL</key>
+	<string>http://192.168.22.28/android/hdkt/Yoya.ipa</string>
+	<key>Title</key>
+	<string>Yoya</string>
+	<key>Subtitle</key>
+	<string></string>
+	<key>Large Image URL</key>
+	<string></string>
+	<key>Small Image URL</key>
+	<string></string>
+</dict>
+</plist>
